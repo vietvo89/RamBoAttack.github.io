@@ -1,7 +1,7 @@
 
 # README 
 
-This is for releasing the source code of the paper "Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems" 
+This is for releasing the source code of the paper "RamBoAttack: A Robust Query Efficient Deep Neural Network Decision Exploit" 
 
 Archived Version: [RamBoAttack](https://arxiv.org/abs/2112.05282)
 
