@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 
 # Run the RamBoAttack
 
-- Run step-by-step with the Jupyter Notebook file *'Tutorial - RamBoAttack - CIFAR10.ipynb'*. 
+- Run step-by-step with the Jupyter Notebook file *'Tutorial - RamBoAttack - CIFAR10.ipynb'* or *'Tutorial - RamBoAttack - ImageNet.ipynb'*. 
   
 ## TODO 
 - [ ] add the testing code.
